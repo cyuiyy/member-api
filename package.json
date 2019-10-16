@@ -1,0 +1,28 @@
+{
+  "name": "member-api",
+  "version": "1.0.0",
+  "description": "member-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyuiyy/member-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyuiyy/member-api/issues"
+  },
+  "homepage": "https://github.com/cyuiyy/member-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "koa": "^2.10.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.17.1"
+  }
+}
